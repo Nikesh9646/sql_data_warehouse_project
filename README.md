@@ -20,7 +20,7 @@ The goal is to transform raw data into meaningful insights for business decision
 
 ## 🔄 ETL Data Flow
 
-![ETL Flow](docs/ETL Flow.png)
+![ETL Flow](docs/ETLFlow.png)
 
 ### Process:
 1. Extract data from CSV files
