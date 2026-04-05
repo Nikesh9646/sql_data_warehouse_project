@@ -9,7 +9,7 @@ The goal is to transform raw data into meaningful insights for business decision
 
 ## 🧱 Data Architecture
 
-![Data Architecture](docs/data_architechture.png)
+![Data Architecture](docs/data_architecture.png)
 
 ### 🔹 Architecture Layers:
 - **Bronze Layer** → Raw data ingestion from CRM & ERP (CSV files)
