@@ -33,7 +33,7 @@ The goal is to transform raw data into meaningful insights for business decision
 
 ## 🧩 Data Model (Star Schema)
 
-![Star Schema](https://i.imgur.com/YOUR_STAR_SCHEMA.png)
+![Star Schema](docs/star_schema.png)
 
 ### Tables:
 - **Fact Table:** Fact_Sales  
