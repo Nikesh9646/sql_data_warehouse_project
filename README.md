@@ -58,7 +58,7 @@ The Power BI dashboard connects directly to Gold-layer analytical SQL views and 
 
 ## 🏢 Executive Overview
 
-![Executive Overview](analytics/dashboard/Executive_overview.png)
+![Executive Overview](Analytics/dashboard/Executive_overview.png)
 
 ### Highlights
 - Revenue KPIs
@@ -71,7 +71,7 @@ The Power BI dashboard connects directly to Gold-layer analytical SQL views and 
 
 ## 👥 Customer Analysis
 
-![Customer Overview](analytics/dashboard/Customer_overview.png)
+![Customer Overview](Analytics/dashboard/Customer_overview.png)
 
 ### Highlights
 - Customer demographics
@@ -84,7 +84,7 @@ The Power BI dashboard connects directly to Gold-layer analytical SQL views and 
 
 ## 📦 Product Performance
 
-![Product Overview](analytics/dashboard/Product_overview.png)
+![Product Overview](Analytics/dashboard/Product_overview.png)
 
 ### Highlights
 - Product quantity sold
